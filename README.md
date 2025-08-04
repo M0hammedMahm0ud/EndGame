@@ -1,12 +1,7 @@
-from pathlib import Path
-
-readme_content = """# 🕹️ Assembly: Endgame
 
 **Protect the programming world—one word at a time!**
 
 A word-guessing game with a developer twist. Your mission? Keep the world safe from the chaos of Assembly by guessing the correct programming-related term within 8 attempts!
-
-![Assembly: Endgame Screenshot](./assets/screenshot.png)
 
 ## 🎮 How to Play
 
