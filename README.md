@@ -36,21 +36,8 @@ cd assembly-endgame
 open index.html
 ```
 
-Or simply open the `index.html` file in your browser.
+Or simply click [HERE] (https://assembly0endgame.netlify.app/)
 
 ## 🧠 Game Concept
 
 Inspired by classic word-guessing games (like Hangman), but with a programming twist. Use your developer knowledge and intuition to guess tech-related words ranging from **"Python"** to **"TypeScript"**.
-
-## 📸 Screenshot
-
-![Gameplay Screenshot](./assets/screenshot.png)
-
-## 👨‍💻 Author
-
-**Mohammed Mahmoud Ali**  
-GitHub: [@yourusername](https://github.com/yourusername)
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
