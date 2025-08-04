@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://M0hammedMahm0ud.github.io/Assembly-EndGame/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,6 +13,7 @@
   "dependencies": {
     "canvas-confetti": "^1.9.3",
     "clsx": "^2.1.1",
+    "gh-pages": "^6.3.0",
     "react": "^19.1.0",
     "react-confetti": "^6.4.0",
     "react-dom": "^19.1.0"
