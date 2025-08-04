@@ -4,8 +4,6 @@
 
 A word-guessing game with a developer twist. Your mission? Keep the world safe from the chaos of Assembly by guessing the correct programming-related term within 8 attempts!
 
-![Assembly: Endgame Screenshot](./assets/screenshot.png)
-
 ## 🎮 How to Play
 
 - A secret word (related to programming) is chosen at random.
@@ -36,7 +34,7 @@ cd assembly-endgame
 open index.html
 ```
 
-Or simply click [HERE] (https://assembly0endgame.netlify.app/)
+Or simply click [HERE](https://assembly0endgame.netlify.app/)
 
 ## 🧠 Game Concept
 
