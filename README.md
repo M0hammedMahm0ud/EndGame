@@ -4,6 +4,8 @@
 
 A word-guessing game with a developer twist. Your mission? Keep the world safe from the chaos of Assembly by guessing the correct programming-related term within 8 attempts!
 
+**This is the last project from Scrimba education platform (learning react for Beginners)**
+
 ## 🎮 How to Play
 
 - A secret word (related to programming) is chosen at random.
