@@ -34,7 +34,7 @@ A word-guessing game with a developer twist. Your mission? Keep the world safe f
 To run the game locally:
 
 ```bash
-git clone https://github.com/yourusername/assembly-endgame.git
+git clone https://github.com/M0hammedMahm0ud/assembly-endgame.git
 cd assembly-endgame
 open index.html
 ```
