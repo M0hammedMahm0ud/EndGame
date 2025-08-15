@@ -6,6 +6,9 @@ A word-guessing game with a developer twist. Your mission? Keep the world safe f
 
 **This is the last project from Scrimba education platform (learning react for Beginners)**
 
+Live Demo [HERE](https://assembly0endgame.netlify.app/)
+
+
 ## 🎮 How to Play
 
 - A secret word (related to programming) is chosen at random.
@@ -35,9 +38,6 @@ git clone https://github.com/yourusername/assembly-endgame.git
 cd assembly-endgame
 open index.html
 ```
-
-Or simply click [HERE](https://assembly0endgame.netlify.app/)
-
 ## 🧠 Game Concept
 
 Inspired by classic word-guessing games (like Hangman), but with a programming twist. Use your developer knowledge and intuition to guess tech-related words ranging from **"Python"** to **"TypeScript"**.
