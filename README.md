@@ -6,7 +6,7 @@ A word-guessing game with a developer twist. Your mission? Keep the world safe f
 
 **This is the last project from Scrimba education platform (learning react for Beginners)**
 
-✨ Live Demo [HERE](https://assembly0endgame.netlify.app/)
+✨ [Live Demo](https://assembly0endgame.netlify.app/)
 
 
 ## 🎮 How to Play
