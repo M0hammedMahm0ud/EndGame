@@ -4,7 +4,7 @@
 
 A word-guessing game with a developer twist. Your mission? Keep the world safe from the chaos of Assembly by guessing the correct programming-related term within 8 attempts!
 
-**This is the last project from Scrimba education platform (learning react for Beginners)**
+**This is the capstone project #2 from Scrimba education platform (learning react for Beginners)**
 
 ✨ [Live Demo](https://assembly-end-game-sc2.netlify.app/)
 
