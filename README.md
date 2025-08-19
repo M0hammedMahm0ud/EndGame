@@ -25,9 +25,7 @@ A word-guessing game with a developer twist. Your mission? Keep the world safe f
 
 ## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
+- React.js
 
 ## 🚀 Getting Started
 
