@@ -4,7 +4,7 @@
 
 A word-guessing game with a developer twist. Your mission? Keep the world safe from the chaos of Assembly by guessing the correct programming-related term within 8 attempts!
 
-**This is the capstone project #2 from Scrimba education platform (learning react for Beginners)**
+**This is the capstone project #2 from Scrimba education platform (learning react for Beginners).**
 
 ✨ [Live Demo](https://assembly-end-game-sc2.netlify.app/)
 
@@ -25,17 +25,8 @@ A word-guessing game with a developer twist. Your mission? Keep the world safe f
 
 ## 🛠️ Tech Stack
 
-- React.js
+- React js
 
-## 🚀 Getting Started
-
-To run the game locally:
-
-```bash
-git clone https://github.com/M0hammedMahm0ud/assembly-endgame.git
-cd assembly-endgame
-open index.html
-```
 ## 🧠 Game Concept
 
 Inspired by classic word-guessing games (like Hangman), but with a programming twist. Use your developer knowledge and intuition to guess tech-related words ranging from **"Python"** to **"TypeScript"**.
