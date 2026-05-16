@@ -1,4 +1,4 @@
-# 🕹️ Assembly: Endgame
+# Assembly: Endgame
 
 **Protect the programming world—one word at a time!**
 
@@ -8,8 +8,10 @@ A word-guessing game with a developer twist. Your mission? Keep the world safe f
 
 ✨ [Live Demo](https://assembly-end-game-sc2.netlify.app/)
 
+[Typescript version](https://github.com/M0hammedMahm0ud/AssemblyEndGameTS)
 
-## 🎮 How to Play
+
+## How to Play
 
 - A secret word (related to programming) is chosen at random.
 - You have **8 attempts** to guess the correct word, one letter at a time.
@@ -17,14 +19,13 @@ A word-guessing game with a developer twist. Your mission? Keep the world safe f
 - Each wrong guess reduces your remaining attempts.
 - Guess the word before your attempts run out to win the game.
 
-## 💡 Features
+## Features
 
 - Clean UI with developer-themed styling.
 - Programming languages and frameworks are your allies.
 - Fun and educational for both beginners and seasoned devs.
 
-## 🛠️ Tech Stack
-
+## Tech Stack
 - React js
 
 ## 🧠 Game Concept
